@@ -5,7 +5,8 @@ The ~~PyRope Plotter, Analyser and Exporter~~ *well now PyRope is not being upda
 
 It can both plot and export generated stats.
 
-The game folder can be used as a separate module for simply extracting the useful information from the PyRope-parsed replays.
+## Usage
+Put this stuff into a "pyroplane" folder. Move _pyr.py to the same directory as the folder (up one). Run _pyr.py.
 
 
 ## Functions
