@@ -1,0 +1,180 @@
+Yeezy - Crown & Jewels
+Total Hits: 132
+Average Hit Distance: 2019
+    Attacking Half: 79 (59.8%)    Defending Half: 53 (40.2%)
+Total Shots: 7 (5.3%)
+    Average Shot Distance: 2597
+    Total Goals: 1 (14.3%)
+        Was Assisted: 0 (0.0%)
+Total Passes: 29 (22.0%)
+    Total Assists: 0 (0.0%)
+        Secondary Assists: 0 (0.0%)
+    Average Pass Distance: 1332
+Total Dribbles: 16 (12.1%)
+    Average Dribble Distance: 2345
+    Average Dribble Hits: 2.8
+Total Saves: 5 (3.8%)
+    Failed Saves: 0 (0.0%)
+
+Possession (by hit): 16.9%
+Possession (by position): 18.0%
+
+Average Position: [116, 815, 85]   v: [[-1984, 2190], [-1499, 3560], [18, 238]]
+In Attacking Half: 10.8%    Defending Half: 89.2%
+In Attacking Third: 6.0%    Middle Third: 8.8%    Defending Third: 2.1%
+On Ground: 11.0%    Under Goal: 5.4%    Above Goal: 0.5%
+In Front of Ball: 6.6%    Behind Ball: 10.3%
+
+Average Speed: 62
+    In Attacking Half: 57    In Defending Half: 65
+
+paschy90 - Crown & Jewels
+Total Hits: 92
+Average Hit Distance: 2367
+    Attacking Half: 47 (51.1%)    Defending Half: 45 (48.9%)
+Total Shots: 16 (17.4%)
+    Average Shot Distance: 3136
+    Total Goals: 4 (25.0%)
+        Was Assisted: 0 (0.0%)
+Total Passes: 13 (14.1%)
+    Total Assists: 0 (0.0%)
+        Secondary Assists: 0 (0.0%)
+    Average Pass Distance: 1647
+Total Dribbles: 12 (13.0%)
+    Average Dribble Distance: 1704
+    Average Dribble Hits: 2.1
+Total Saves: 7 (7.6%)
+    Failed Saves: 0 (0.0%)
+
+Possession (by hit): 13.8%
+Possession (by position): 13.7%
+
+Average Position: [74, 572, 109]   v: [[-1979, 2248], [-1701, 3107], [18, 280]]
+In Attacking Half: 11.0%    Defending Half: 89.0%
+In Attacking Third: 5.0%    Middle Third: 10.2%    Defending Third: 1.8%
+On Ground: 10.8%    Under Goal: 5.2%    Above Goal: 1.0%
+In Front of Ball: 7.8%    Behind Ball: 9.2%
+
+Average Speed: 69
+    In Attacking Half: 61    In Defending Half: 68
+
+Sikii - Crown & Jewels
+Total Hits: 113
+Average Hit Distance: 2669
+    Attacking Half: 62 (54.9%)    Defending Half: 51 (45.1%)
+Total Shots: 10 (8.8%)
+    Average Shot Distance: 3005
+    Total Goals: 2 (20.0%)
+        Was Assisted: 1 (50.0%)
+Total Passes: 17 (15.0%)
+    Total Assists: 1 (5.9%)
+        Secondary Assists: 0 (0.0%)
+    Average Pass Distance: 1448
+Total Dribbles: 10 (8.8%)
+    Average Dribble Distance: 2418
+    Average Dribble Hits: 2.7
+Total Saves: 5 (4.4%)
+    Failed Saves: 1 (0.9%)
+
+Possession (by hit): 17.7%
+Possession (by position): 16.2%
+
+Average Position: [-149, 1236, 118]   v: [[-2085, 1825], [-873, 4064], [19, 358]]
+In Attacking Half: 12.1%    Defending Half: 87.9%
+In Attacking Third: 6.6%    Middle Third: 8.8%    Defending Third: 1.5%
+On Ground: 10.8%    Under Goal: 4.3%    Above Goal: 1.8%
+In Front of Ball: 4.7%    Behind Ball: 12.2%
+
+Average Speed: 63
+    In Attacking Half: 57    In Defending Half: 70
+
+Noble Vogan
+Total Hits: 130
+Average Hit Distance: 2130
+    Attacking Half: 71 (54.6%)    Defending Half: 59 (45.4%)
+Total Shots: 13 (10.0%)
+    Average Shot Distance: 2489
+    Total Goals: 4 (30.8%)
+        Was Assisted: 0 (0.0%)
+Total Passes: 29 (22.3%)
+    Total Assists: 0 (0.0%)
+        Secondary Assists: 0 (0.0%)
+    Average Pass Distance: 1736
+Total Dribbles: 19 (14.6%)
+    Average Dribble Distance: 2641
+    Average Dribble Hits: 2.5
+Total Saves: 3 (2.3%)
+    Failed Saves: 0 (0.0%)
+
+Possession (by hit): 17.6%
+Possession (by position): 18.3%
+
+Average Position: [-93, -341, 108]   v: [[-1819, 1661], [-3197, 2383], [18, 288]]
+In Attacking Half: 7.8%    Defending Half: 92.2%
+In Attacking Third: 3.0%    Middle Third: 11.0%    Defending Third: 2.9%
+On Ground: 9.4%    Under Goal: 6.1%    Above Goal: 1.4%
+In Front of Ball: 6.2%    Behind Ball: 10.7%
+
+Average Speed: 62
+    In Attacking Half: 64    In Defending Half: 57
+
+Noble Stocki
+Total Hits: 116
+Average Hit Distance: 2452
+    Attacking Half: 66 (56.9%)    Defending Half: 50 (43.1%)
+Total Shots: 11 (9.5%)
+    Average Shot Distance: 3515
+    Total Goals: 1 (9.1%)
+        Was Assisted: 0 (0.0%)
+Total Passes: 18 (15.5%)
+    Total Assists: 0 (0.0%)
+        Secondary Assists: 0 (0.0%)
+    Average Pass Distance: 1595
+Total Dribbles: 17 (14.7%)
+    Average Dribble Distance: 1687
+    Average Dribble Hits: 2.1
+Total Saves: 6 (5.2%)
+    Failed Saves: 0 (0.0%)
+
+Possession (by hit): 17.4%
+Possession (by position): 17.1%
+
+Average Position: [-166, -1283, 146]   v: [[-2409, 2018], [-3971, 838], [18, 453]]
+In Attacking Half: 8.9%    Defending Half: 91.1%
+In Attacking Third: 4.3%    Middle Third: 10.2%    Defending Third: 2.4%
+On Ground: 10.2%    Under Goal: 5.1%    Above Goal: 1.6%
+In Front of Ball: 4.0%    Behind Ball: 12.9%
+
+Average Speed: 70
+    In Attacking Half: 71    In Defending Half: 72
+
+Noble Skyline
+Total Hits: 118
+Average Hit Distance: 2045
+    Attacking Half: 70 (59.3%)    Defending Half: 48 (40.7%)
+Total Shots: 8 (6.8%)
+    Average Shot Distance: 2769
+    Total Goals: 1 (12.5%)
+        Was Assisted: 0 (0.0%)
+Total Passes: 19 (16.1%)
+    Total Assists: 0 (0.0%)
+        Secondary Assists: 0 (0.0%)
+    Average Pass Distance: 1297
+Total Dribbles: 14 (11.9%)
+    Average Dribble Distance: 1641
+    Average Dribble Hits: 2.4
+Total Saves: 11 (9.3%)
+    Failed Saves: 0 (0.0%)
+
+Possession (by hit): 16.5%
+Possession (by position): 16.7%
+
+Average Position: [214, -1544, 118]   v: [[-1796, 2399], [-4249, 559], [19, 361]]
+In Attacking Half: 10.3%    Defending Half: 89.7%
+In Attacking Third: 5.1%    Middle Third: 10.2%    Defending Third: 1.7%
+On Ground: 10.1%    Under Goal: 5.2%    Above Goal: 1.6%
+In Front of Ball: 3.7%    Behind Ball: 13.2%
+
+Average Speed: 63
+    In Attacking Half: 65    In Defending Half: 64
+
